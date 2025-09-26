@@ -6,7 +6,6 @@ image:  daya/kicad.jpg
 tags:   Home kicad
 author: Daya
 ---
-# Write Up on KiCad
 
 ## Introduction
 
