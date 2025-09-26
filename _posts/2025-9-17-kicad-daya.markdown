@@ -41,6 +41,8 @@ The typical workflow in KiCad consists of:
 4. **Verification**: Run DRC and ERC to check for design errors.
 5. **3D Visualization**: Inspect the board in the 3D viewer.
 6. **Export Files**: Generate Gerber and drill files for manufacturing.
+![]({{ site.baseurl }}/images/daya/layout inverting.png")
+
 
 ## Advantages
 
@@ -63,7 +65,7 @@ To start using KiCad:
 1. Download it from [kicad.org](https://www.kicad.org/download/).
 2. Install and explore the schematic and PCB editors.
 3. Refer to the official [Getting Started Guide](https://docs.kicad.org/) for tutorials.
-
+![]({{ site.baseurl }}/images/daya/schematic pcb.png")
 ## Conclusion
 
 KiCad is a versatile and powerful EDA tool suitable for a wide range of users. Its open-source nature and robust feature set make it a popular choice for anyone interested in PCB design.
