@@ -48,6 +48,7 @@ The typical workflow in KiCad consists of:
 - **Cross-Platform**: Runs on Windows, macOS, and Linux.
 - **Active Community**: Extensive documentation, forums, and tutorials.
 - **No Limitations**: No restrictions on board size, layer count, or number of components.
+![]({{ site.baseurl }}/images/daya/drawing.png")
 
 ## Use Cases
 
